@@ -1,2 +1,1 @@
-# Data Engineering Group 2 Project
-
+# Data Engineering Coursework Project Group 2 - Muggles 
