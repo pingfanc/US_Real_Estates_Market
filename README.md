@@ -7,5 +7,5 @@ This project is designed to build a database for the real estate market in the S
 There are three different types of data resources which come from API, web scraping, and Excel documents. These data are first stored in Postgres and MongoDB (OLTP database), then transformed into DuckDB for further analysis as it is an OLAP database. 
 
 ## Future steps
-Build it into automation pipeline with AWS
+- Build it into the automation pipeline with AWS
 
