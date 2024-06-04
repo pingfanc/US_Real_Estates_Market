@@ -1,1 +1,3 @@
-# Data Engineering Coursework Project Group 2 - Muggles 
+# Data Engineering Coursework Group Project
+
+Used Packages: spark, pandas
